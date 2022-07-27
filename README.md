@@ -3,5 +3,5 @@
 - 🌱 Estou aprendendo Python/HTML/CSS3/JS!
 - 📫 Como chegar até mim:
 
-Instagram(@eoo_rett)
-Discord(Rett#5412)
+Instagram: (@eoo_rett)
+Discord: (Rett#5412)
