@@ -10,8 +10,8 @@ My programming expertise includes a broad range of languages, frameworks, and te
 
 - **Pawn**: A scripting language used in the game modification community.
 - **C++**: A powerful and efficient language commonly used for building operating systems, game engines, and high-performance applications.
-- **Node.js**: A popular JavaScript runtime that allows developers to build scalable and efficient web applications.
-- **React**: A JavaScript library for building user interfaces.
+- **Framework: Node.js**: A popular JavaScript runtime that allows developers to build scalable and efficient web applications.
+- **Framework: React**: A JavaScript library for building user interfaces.
 - **Python**: A versatile language used in web development, data science, machine learning, and more.
 
 ### Projects
