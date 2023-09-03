@@ -2,7 +2,7 @@
 
 ## Lucas "Rett" - Bio
 
-Welcome to my GitHub page! My name is Lucas, but most people call me Rett. I am a versatile programmer with experience in several programming languages, including Pawn, C++, Node.js, React, and Python.
+Welcome to my GitHub page! My name is Lucas, but most people call me Rett. I am a versatile programmer with experience in several programming languages, including Pawn, C++, Node.js Framework, React Framework, and Python.
 
 ### Skills
 
